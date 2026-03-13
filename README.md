@@ -1,1 +1,1 @@
-# newron-networks-lab1
+# neuron-networks-lab1
